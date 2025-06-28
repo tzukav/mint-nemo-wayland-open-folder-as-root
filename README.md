@@ -6,8 +6,11 @@ Like what you can do in it is just read.
 With this action you can create, delete, paste, everything... like a normal root user on x11.
 
 The only downside? Without a terminal execution of pkexec, the wayland server crashes... so yeah... you will have a terminal open all the time you are inside the nemo root... 
+
 If I'm gonna find an alternative in the future, imma edit this repo. 
+
 Or maybe wayland or linux mint team will find a solution.
+
 But for now, this is a working alternative.
 
 This is a known 'bug' of the wayland display server.
