@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Open folder as root
+Comment=Open current folder as root
+Exec=<open_as_root.sh %U>
+Icon-Name=key
+Selection=none
+Extensions=dir
+Dependencies=pkexec
+Terminal=true
