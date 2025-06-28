@@ -1,0 +1,1 @@
+# mint-nemo-open-folder-as-root
