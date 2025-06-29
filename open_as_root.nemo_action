@@ -2,8 +2,8 @@
 Name=Open folder as root
 Comment=Open current folder as root
 Exec=<open_as_root.sh %U>
-Icon-Name=key
+Icon-Name=dialog-password
 Selection=none
-Extensions=dir
+Extensions=dir;inode/directory;
 Dependencies=pkexec
 Terminal=true
